@@ -1,0 +1,11 @@
+{
+  "name": "githubflow",
+  "version": "1.0.0",
+  "description": "Testing branches on Github",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
